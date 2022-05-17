@@ -1,1 +1,0 @@
-words = ("ant","back","bone","phone","one","two","three","four","five")
